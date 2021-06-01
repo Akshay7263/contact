@@ -1,6 +1,6 @@
 <html><head><title>css</title>
 
-<link rel="stylesheet" href="2.css">
+<link rel="stylesheet" href="index.css">
 </head>
 <body>
     <div >
